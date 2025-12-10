@@ -76,7 +76,7 @@ root
 
 My full ePortfolio can be viewed here:  
 **GitHub Pages URL:**  
-[Insert your GitHub Pages link here]
+https://smccarthy33.github.io/ 
 
 This site presents all artifacts, narratives, and supporting materials in a clean, easy to navigate layout that aligns with UI and UX expectations for the CS 499 Capstone.
 
